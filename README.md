@@ -17,8 +17,10 @@ Grab Telegram
 
 
                                                 ⬇️ Setup
-                                                                                                                                                                   first open install.py
-
+                                                                                                                                                                   
+                                                                                                                                                                   
+                                                                                                                                                                   
+first open install.py
 open builder.bat
 
 
